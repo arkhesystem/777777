@@ -1,0 +1,1 @@
+// Archivo obsoleto. Usar FormularioTransaccion.tsx
